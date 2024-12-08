@@ -1,0 +1,5 @@
+INDEX MAIN
+
+Aquesta carpeta conte el programa principal del projecte.
+
+ProgramaPrincipal: Classe on es troba el main del programa.

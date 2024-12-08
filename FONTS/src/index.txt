@@ -1,0 +1,10 @@
+INDEX SRC
+Aquesta carpeta conte les tres capes del projecte, la capa de presentacio, la de domini i la de dades, aixi com els seus controladors i la classe que permet executar el programa. Tambe conté el makefile i el Manifest utilitzat pel Makefile. 
+
+CtrlDomini: Carpeta amb les classes de CtrlDomini
+CtrlPresentacio: Carpeta amb les classes la capa de persistencia
+data: Carpeta amb les classes de la capa de dades
+Domini: Carpeta amb les classes de la capa de domini
+Main: Carpeta amb la classe que permet executar el programa
+Makefile: Fitxer que compila el programa.
+Manifest: Fitxer de text que li indica a una comanda del Makefile la classe principal del programa.

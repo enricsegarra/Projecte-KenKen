@@ -1,0 +1,20 @@
+INDEX DOMINI
+
+Aquesta carpeta conte tots els fitxers .java de les classes del nostre projecte.
+
+Casella.java: Classe que representa les caselles del tauler.
+Divisio.java: Classe que s'ocupa de fer la operacio de divisio per les zones.
+Jugador.java: Classe que representa els jugadors, perfils d'usuari, del joc.
+KenKen.java: Classe que representa el tauler de KenKen.
+Modul.java: Classe que s'ocupa de fer la operacio de modul per les zones.
+Multiplicacio.java: Classe que s'ocupa de fer la operacio de multiplicacio per les zones.
+myException.java: Classe per generar excepcions personalitzades.
+Operacio.java: Classe abstracta que s'ocupa de fer operacions per les zones.
+parNomPunts.java: Classe que representa les tuples del ranking.
+Partida.java: Classe que representa les partides del joc.
+Potencia.java: Classe que s'ocupa de fer la operacio de potencia per les zones.
+Ranking.java: Classe que representa les diferents instancies de ranking per cada tamany disponible de kenken.
+Resta.java: Classe que s'ocupa de fer la operacio de resta per les zones.
+Suma.java: Classe que s'ocupa de fer la operacio de suma per les zones.
+Timer.java: Classe que s'ocupa de contar el temps per les partides.
+Zona.java: Classe que representa les zones del tauler de KenKen.

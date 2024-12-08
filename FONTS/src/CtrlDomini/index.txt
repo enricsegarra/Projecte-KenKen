@@ -1,0 +1,6 @@
+INDEX CTRLDOMINI
+
+En aquesta carpeta es troben els arxius .java del nostre controlador de domini i el controlador de kenken.
+
+CtrlDomini.java: Conte tota la sequencia per gestionar perfils primer i posteriorment gestionar/jugar KenKens.
+CtrlKenKen.java: Conte funcions especifiques que gestionen coses dels kenkens, com ara els algorismes complexos.

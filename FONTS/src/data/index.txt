@@ -1,0 +1,9 @@
+INDEX DATA
+
+Aquesta carpeta conte tots els fitxers .java que gestionen la capa de persistencia.
+
+CtrlPersitencia.java: Classe que s'encarrega de gestionar les operacions de persistència de jugadors, KenKens, partides i ranquings.
+JugadorsData.java: Classe que s'encarrega de la gestio de les dades dels jugadors.
+KenKenData.java: Classe que s'encarrega de la gestio de les dades dels KenKens.
+PartidesData.java: Classe que gestiona les dades de les partides dels usuaris.
+RankingData.java: Classe que s'encarrega de la gestio de les dades del ranquing.

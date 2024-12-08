@@ -1,0 +1,4 @@
+INDEX FONTS
+
+Aquesta carpeta conte tot el codi de les classes, dins de la carpeta src que hi trobem.
+La carpeta src te el seu propi index on s'expliquen els diversos continguts.

@@ -1,0 +1,14 @@
+INDEX CTRLPRESENTACIO
+
+En aquesta carpeta es troben els nostres arxius .java del Controlador de Presentacio i les classes necessaries per crear la capa de presentacio:
+
+CtrlPresentacio.java: Conte el codi per inicialitzar i gestionar la capa de Presentacio, amb funcions per cada accio possible.
+EscullMetode.java: S'ocupa de la vista del menu de selecció de kenken generat o guardat.
+GeneraKenKen.java: S'ocupa de la vista del menu de generació aleatoria de KenKens.
+IniciSessio.java: S'ocupa de la vista de gestio de perfils.
+IntroduirKenKen.java: S'ocupa deLa vista d'introduccio manual o per fitxer dels kenkens.
+JugarPartida.java: S'ocupa de la vista de la visualitzacio i jugabilitat de partida.
+MenuPrincipal.java: S'ocupa de la vista del menu principal.
+SeleccioContinuar.java: S'ocupa de la vista del menu de continuar partida.
+Seleccionar.java: S'ocupa de la vista de previsualitzacio del kenken abans de començar una partida.
+VistaRankings.java: S'ocupa de la vista del menu de ranquings.

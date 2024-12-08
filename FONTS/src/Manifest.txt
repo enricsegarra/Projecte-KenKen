@@ -1,0 +1,2 @@
+Main-Class: Main.ProgramaPrincipal
+Class-Path: lib\\json-simple-1.1.1.jar
