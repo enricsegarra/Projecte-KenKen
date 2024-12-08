@@ -1,0 +1,6 @@
+INDEX SRC
+
+Aquesta carpeta conte una carpeta amb tots els .json/.txt on es guarden les dades del nostre projecte.
+
+dades: Carpeta on es guarden totes les dades del nostre projecte (tant .json com .txt)
+

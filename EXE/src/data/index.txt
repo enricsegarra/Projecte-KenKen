@@ -1,0 +1,10 @@
+INDEX DATA
+
+Aquesta carpeta conte tots els .json/.txt on es guarden les dades del nostre projecte.
+
+kenkens: Carpeta on es guarden els fitxers .txt dels Kenkens
+ranking: Carpeta on es guarden els fitxers .json dels Rankings
+
+jugadors.json: Fitxer on es guarden les dades dels jugadors.
+partides.json: Fitxer on es guarden les dades de les partides. 
+

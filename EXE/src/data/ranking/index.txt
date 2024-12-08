@@ -1,0 +1,11 @@
+INDEX RANKING
+
+Aquesta carpeta conte diferents fitxers .json que guarden la informacio dels ranquings, cada fitxer correspon a un ranquing guardat.
+
+ranking3.json: guarda la informacio del ranquing dels kenkens de mida 3
+ranking4.json: guarda la informacio del ranquing dels kenkens de mida 4
+ranking5.json: guarda la informacio del ranquing dels kenkens de mida 5
+ranking6.json: guarda la informacio del ranquing dels kenkens de mida 6
+ranking7.json: guarda la informacio del ranquing dels kenkens de mida 7
+ranking8.json: guarda la informacio del ranquing dels kenkens de mida 8
+ranking9.json: guarda la informacio del ranquing dels kenkens de mida 9

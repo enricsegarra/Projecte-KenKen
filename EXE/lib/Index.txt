@@ -1,0 +1,5 @@
+Carpeta lib
+
+Aquesta carpeta conte llibreria dels .json.
+
+- json-simple-1.1.1.jar: Llibreria dels json.

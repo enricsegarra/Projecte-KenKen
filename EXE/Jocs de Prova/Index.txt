@@ -1,0 +1,7 @@
+Carpeta Jocs de Prova
+
+Aquesta carpeta conte els jocs de prova en format pdf i dues carpetes amb kenkens a dintre (en el format de text estipulat).
+
+- Jocs_de_Prova: Document pdf amb tots els jocs de prova.
+- KenKens_Joc_de_Prova_3: Carpeta amb els KenKens necessaris per al tercer joc de prova.
+- KenKens: Carpeta amb KenKens addicionals.

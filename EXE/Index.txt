@@ -1,0 +1,9 @@
+Carpeta EXE
+
+Aquesta carpeta conte l'executable del programa, una carpeta amb els jocs de prova, una carpeta amb la "base de dades", una carpeta amb els binaris i una carpeta amb la llibreria dels .json.
+
+- Jocs de Prova: Carpeta amb els jocs de prova.
+- Main.jar: Executable del programa.
+- src: Carpeta on es troben guardats els fitxers amb les dades del programa (KenKens, partides, ranquings, etc.)
+- OUT: Carpeta on es troben els binaris del programa. Cada cop que es fa servir el makefile es generen de nou.
+- lib: Carpeta amb la llibreria dels .json.

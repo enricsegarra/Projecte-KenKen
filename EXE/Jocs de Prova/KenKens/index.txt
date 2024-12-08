@@ -1,0 +1,7 @@
+Carpeta KenKens
+
+Carpeta amb diferents KenKens. El nom del fitxer determina com es el kenken. Exemple:
+
+KenKen_3x3_V_1.txt
+
+Aquest KenKen es de mida 3 (3x3), es valid (V, si no ho fos seria F) i es el primer d'aquest tipus (1).

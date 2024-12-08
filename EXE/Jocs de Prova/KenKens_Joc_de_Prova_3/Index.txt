@@ -1,0 +1,3 @@
+Carpeta KenKens_Joc_de_Prova_3
+
+Aquesta carpeta conte 4 KenKens necessaris per al tercer joc de prova.
