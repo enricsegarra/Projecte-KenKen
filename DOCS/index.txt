@@ -1,0 +1,6 @@
+INDEX DOCS
+Aquesta carpeta conte la documentacio del projecte.
+
+JavaDoc: Carpeta amb el contingut de la documentacio del codi. Per a començar a visualitzar obrir el fitxer index.html.
+Manual_d'usuari: Manual amb les instruccions d'instalacio, excecucio i us per al usuari.
+Relacions_de_les_classes: Document amb una taula que indica la distribucio de les classes per cada membre de l'equip.

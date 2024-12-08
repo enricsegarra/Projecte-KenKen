@@ -1,0 +1,10 @@
+INDEX CARPETA DE PROJECTE
+
+Carpeta que conte el projecte sencer, incloent documentacio, executables i jocs de prova i el codi font.
+
+- DOCS: Conte el JavaDoc i varis documents del projecte.
+
+- EXE: Conte l'executable i Jocs de Prova, i un document amb els Jocs d'Assaig (anomenat "JOCS DE PROVES.pdf").
+    Per moure l'executable del Main, cal també moure la carpeta src inclosa dins de EXE per tal de que l'executable tingui acces als arxius necessaris.
+
+- FONTS: Conte tot el codi del projecte, dividit per carpetes amb noms indicatius.
